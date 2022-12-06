@@ -1,7 +1,7 @@
 # 🗡️ KnifeGame 🗡️
 
 
-##Knife Game is a solo and multiplayer (local) game.
+## Knife Game is a solo and multiplayer (local) game.
 
 
 ### 🥷 In the single player version, you are a ninja trying to escape Prison. You have to finish 5 levels of increasing difficulty. 🥷
